@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Animal",
+            "request": "launch",
+            "mainClass": "Animal",
+            "projectName": "java file_6ae2990b"
+        },
+        {
+            "type": "java",
+            "name": "ControlStatements",
+            "request": "launch",
+            "mainClass": "ControlStatements",
+            "projectName": "java file_6ae2990b"
+        },
+        {
+            "type": "java",
+            "name": "app1",
+            "request": "launch",
+            "mainClass": "app1",
+            "projectName": "java file_6ae2990b"
+        },
+        {
+            "type": "java",
             "name": "method",
             "request": "launch",
             "mainClass": "method",
